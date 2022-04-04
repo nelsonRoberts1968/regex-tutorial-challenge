@@ -1,2 +1,2 @@
-# regex-tutorial-challenge
+# Regular Expressions Tutorial
 Regular Expressions Tutorial
